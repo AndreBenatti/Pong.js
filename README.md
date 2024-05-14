@@ -2,7 +2,7 @@
 
 **Descrição do Jogo de Ping Pong em p5.js**
 
-"Ping Pong Duel" é um jogo clássico de ping pong implementado usando a biblioteca p5.js para gráficos interativos. Neste jogo, dois jogadores competem para ver quem pode marcar mais pontos rebatendo a bola com suas raquetes. O objetivo é simples: rebata a bola para o lado oposto da tela e evite que ela passe por sua raquete.
+Pong é um jogo clássico de ping pong implementado usando a biblioteca p5.js para gráficos interativos. Neste jogo, dois jogadores competem para ver quem pode marcar mais pontos rebatendo a bola com suas raquetes. O objetivo é simples: rebata a bola para o lado oposto da tela e evite que ela passe por sua raquete.
 
 ### Como Jogar:
 - **Controles**:
@@ -33,4 +33,4 @@
 - Teste suas habilidades de reflexo e coordenação enquanto tenta rebater a bola de forma estratégica para marcar pontos.
 - Desafie um amigo para uma partida rápida e divertida de ping pong em um ambiente virtual.
 
-"Ping Pong Duel" é um jogo clássico reinventado em uma versão simples e acessível usando p5.js, ideal para quem procura uma experiência divertida e interativa em seu navegador web. Aprecie o desafio e divirta-se competindo neste jogo emocionante de ping pong!
+Pong é um jogo clássico reinventado em uma versão simples e acessível usando p5.js, ideal para quem procura uma experiência divertida e interativa em seu navegador web. Aprecie o desafio e divirta-se competindo neste jogo emocionante de ping pong!
